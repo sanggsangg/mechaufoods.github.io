@@ -1,0 +1,198 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+	margin: 0;
+	top: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+#background0{
+		background-color:#7A1314;
+}
+#navbarSupportedContent a{
+	padding: 30px;
+	font-size: 15px;
+	font-family: 'Be Vietnam Pro', sans-serif;
+	color: #FFEFCF;
+}
+#navbarSupportedContent a:hover{
+	background-color:#FFEFCF;
+	color: #7A1315;	
+}
+#exampleFormControlSelect01{
+	font-size: 20px;
+	font-family: 'Be Vietnam Pro', sans-serif;
+	color: #7A1315;	
+}
+#background{
+	background-image: url("2.png");
+	padding-top: 180px;
+}
+#background h1{
+	color: #7A1315;	
+	font-family: 'Philosopher', sans-serif;
+}
+#background p{
+	color: #7A1315;	
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+#background a{
+	color: #7A1314;
+	font-family: 'Be Vietnam Pro', sans-serif;
+	border: 2px solid #7A1314;
+}
+#background a:hover{
+	color: #FFEFCF;
+	background-color:#7A1314;
+}
+#navbarCollapse ion-icon{
+	font-size: 60px;
+	padding-right: 10px;
+	color: #FFEFCF;
+}
+#background1 {
+	background-color:#7A1314;
+	padding-top: 40px;
+}
+.ps-3{
+	color: #FFEFCF;
+	font-size: 20px;
+}
+#background1 h1{
+	color: #FFEFCF;
+	font-family: 'Philosopher', sans-serif;
+}
+#text h5{
+	color: #FFEFCF;
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+#text ion-icon{
+	color: #FFEFCF;
+	font-size: 50px;
+}
+#background2 {
+	background-color:#FFEFCF;
+	padding-top:200px;
+}
+#background2 h5{
+	padding-top: 20px;
+	color: #7A1314;
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+#background2 h6{
+	font-family: 'Philosopher', sans-serif;
+}
+#background2 h1{
+	color: #7A1314;
+	font-family: 'Philosopher', sans-serif;
+}
+#background2 p{
+	color: #7A1314;
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+#background2 h6{
+	color: #7A1314;
+}
+#background2 a{
+	color: #7A1314;
+	font-family: 'Be Vietnam Pro', sans-serif;
+	border: 2px solid #7A1314;
+}
+#background2 a:hover{
+	color: #FFEFCF;
+	background-color:#7A1314;
+}
+#background3 {
+	background-color:#FFEFCF;
+	padding-top:200px;
+	padding-bottom: 40px;
+	color: #7A1314;
+}
+#background3 h5{
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+#background3 p{
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+#background3 h1{
+	font-family: 'Philosopher', sans-serif;
+}
+#background3 h3{
+	font-family: 'Philosopher', sans-serif;
+}
+.border{
+	background-color: #7A1314;
+	color: #FFEFCF;
+}
+#background3 a{
+	color: #7A1314;
+}
+#background3 a:hover{
+	color: #FFEFCF;
+	background-color:#7A1314;
+}
+#background4 {
+	background-color:#7A1314;
+	padding:30px;
+	color: #FFEFCF;
+}
+#background4 h1{
+	font-family: 'Philosopher', sans-serif;
+}
+#background4 h2{
+	font-family: 'Philosopher', sans-serif;
+}
+#background4 p{
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+#background4 ion-icon{
+	padding-right: 10px;
+}
+#background5 {
+	background-color:#FFEFCF;
+	padding-top:200px;
+	padding-bottom: 40px;
+	color: #7A1314;
+}
+#background5 h1{
+	font-family: 'Philosopher', sans-serif;
+}
+#button{
+	color: #7A1314;
+	border: 2px solid #7A1314;
+}
+.form-group{
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+#button:hover{
+color: #FFEFCF;
+	background-color:#7A1314
+}
+#background6 {
+	background-color:#7A1314;
+	padding:60px;
+	color: #FFEFCF;
+}
+#background6 h4{
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+#background6 p{
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+#background6 ul{
+	list-style-type:none;
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+.footer_social ion-icon{
+	font-size: 50px;
+	padding: 10px;
+}
+.footer ion-icon{
+	padding-right: 10px;
+}
+.footer_logo p{
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+.btn_box {
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
